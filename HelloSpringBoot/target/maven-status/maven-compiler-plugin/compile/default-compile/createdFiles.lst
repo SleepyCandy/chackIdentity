@@ -1,0 +1,4 @@
+com\example\demo\GreetingController.class
+com\example\demo\TrustAllCertificates.class
+com\example\demo\TrustAllHosts.class
+com\example\demo\Application.class
